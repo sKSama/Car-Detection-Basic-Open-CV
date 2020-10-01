@@ -6,12 +6,12 @@ Video Tutorial Link - https://youtu.be/RlD7Q6GFFJE
 
 Description: This project uses OpenCV Library which is is an open source computer vision and machine learning software library.
 
-1. OpenCV:OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products
+1. <b>OpenCV</b>:(Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products
 
-2. HaarCascade: It is a machine learning object detection algorithm used to identify objects in an image or video.
+2. <b>HaarCascade</b>: It is a machine learning object detection algorithm used to identify objects in an image or video.
 With the combination of Python and CV2, image of cars are extracted from video and displayed on windows Screen.
 
-Installation:
+<b>Installation:</b>
 1) Below Python packages are to be downloaded and installed to their default locations.
   a) Numpy package (for example, using pip install numpy command).
   b) Matplotlib (pip install matplotlib) (Matplotlib is optional, but recommended since we use it a lot in our tutorials).
