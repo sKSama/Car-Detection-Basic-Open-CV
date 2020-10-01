@@ -45,6 +45,6 @@ Haar Cascade classifiers are an effective way for object detection. This method 
 
 ## Output:
 
-![Output Img#1](https://github.com/SarthakRana/Car-Detection-Basic-Open-CV/blob/master/output1.png?raw=true)
-![Output Img#1](https://github.com/SarthakRana/Car-Detection-Basic-Open-CV/blob/master/output2.png?raw=true)
-![Output Img#1](https://github.com/SarthakRana/Car-Detection-Basic-Open-CV/blob/master/output3.png?raw=true)
+![Output Img#1](https://github.com/SarthakRana/Car-Detection-Basic-Open-CV/blob/master/output_img1.png?raw=true)
+![Output Img#1](https://github.com/SarthakRana/Car-Detection-Basic-Open-CV/blob/master/output_img2.png?raw=true)
+![Output Img#1](https://github.com/SarthakRana/Car-Detection-Basic-Open-CV/blob/master/output_img3.png?raw=true)
