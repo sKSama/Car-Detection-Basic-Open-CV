@@ -21,7 +21,7 @@ Haar Cascade classifiers are an effective way for object detection. This method 
 * Positive images – These images contain the images which we want our classifier to identify.
 * Negative Images – Images of everything else, which do not contain the object we want to detect.
 
-Installation:
+## Installation:
 1) Below Python packages are to be downloaded and installed to their default locations.
   a) Numpy package (for example, using pip install numpy command).
   b) Matplotlib (pip install matplotlib) (Matplotlib is optional, but recommended since we use it a lot in our tutorials).
@@ -31,8 +31,8 @@ Installation:
 5) Goto opencv/build/python/2.7 folder.
 6) Copy cv2.pyd to C:/Python27/lib/site-packages.
 7) Open Python IDLE and type following codes in Python terminal
-  >>> import cv2 as cv
-  >>> print( cv.__version__ )
+  `import cv2 as cv`
+  `print( cv.__version__ )`
 
 Topics to be Known:
 1) Frame Differencing
