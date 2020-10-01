@@ -24,7 +24,7 @@ With the combination of Python and CV2, image of cars are extracted from video a
   >>> import cv2 as cv
   >>> print( cv.__version__ )
 
-Topics to be Known:
+<b>Topics to be Known:</b>
 1) Frame Differencing
 2) Image Thresholding
 3) Contours
