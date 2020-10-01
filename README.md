@@ -45,4 +45,4 @@ Haar Cascade classifiers are an effective way for object detection. This method 
 
 ## Output:
 
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
