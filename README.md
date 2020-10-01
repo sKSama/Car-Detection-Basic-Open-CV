@@ -1,6 +1,6 @@
 # Car-Detection-Basic-Open-CV
 
-Video Tutorial - ![Click Here](https://youtu.be/RlD7Q6GFFJE)
+Video Tutorial - (https://youtu.be/RlD7Q6GFFJE)
 
 [![](http://img.youtube.com/vi/RlD7Q6GFFJE/0.jpg)](http://www.youtube.com/watch?v=RlD7Q6GFFJE "VIDEO TUTORIAL ")
 
