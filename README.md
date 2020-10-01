@@ -1,6 +1,6 @@
 # Car-Detection-Basic-Open-CV
 
-Video Tutorial - (https://youtu.be/RlD7Q6GFFJE)
+Video Tutorial - https://youtu.be/RlD7Q6GFFJE
 
 [![](http://img.youtube.com/vi/RlD7Q6GFFJE/0.jpg)](http://www.youtube.com/watch?v=RlD7Q6GFFJE "VIDEO TUTORIAL ")
 
@@ -23,15 +23,17 @@ Haar Cascade classifiers are an effective way for object detection. This method 
 
 ## Installation:
 1. Below packages to be installed :
-  - Numpy `pip install numpy`.
-  - Matplotlib `pip install matplotlib` (Matplotlib is optional, but recommended since we use it a lot in our tutorials).
+
+    - Numpy `pip install numpy`.
+    - Matplotlib `pip install matplotlib` (Matplotlib is optional, but recommended since we use it a lot in our tutorials).
+    
 2. Install all packages into their default locations. Python will be installed to C:/Python27/ in case of Python 2.7.
 3. After installation, open Python IDLE. Enter `import numpy` and make sure numpy is working fine.
 4. Download latest OpenCV release from GitHub or SourceForge site and double-click to extract it.
 5. Goto opencv/build/python/2.7 folder.
 6. Copy cv2.pyd to C:/Python27/lib/site-packages.
 7. Open Python IDLE and type following codes in Python terminal :
-  `import cv2 as cv`.
+  `import cv2 as cv`.<br>
   `print( cv.__version__ )`.
 
 ### Topics to be Known:
