@@ -10,9 +10,9 @@ With the combination of Python and CV2, image of cars are extracted from video a
 
 #### Python Installation for Linux
 1)``` sudo apt update ```<br/>
-2)``` sudo apt install software-properties-common ```
-3)``` sudo add-apt-repository ppa:deadsnakes/ppa ```
-4)``` sudo apt install python3.8 ```
+2)``` sudo apt install software-properties-common ```<br/>
+3)``` sudo add-apt-repository ppa:deadsnakes/ppa ```<br/>
+4)``` sudo apt install python3.8 ```<br/>
 
 #### Installation:
 1) Below Python packages are to be downloaded and installed to their default locations.
