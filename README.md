@@ -9,7 +9,7 @@ HaarCascade: It is a machine learning object detection algorithm used to identif
 With the combination of Python and CV2, image of cars are extracted from video and displayed on windows Screen.
 
 #### Python Installation for Linux
-1)``` sudo apt update ```
+1)``` sudo apt update ```<br/>
 2)``` sudo apt install software-properties-common ```
 3)``` sudo add-apt-repository ppa:deadsnakes/ppa ```
 4)``` sudo apt install python3.8 ```
