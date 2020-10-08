@@ -4,7 +4,7 @@ Video Tutorial - https://youtu.be/RlD7Q6GFFJE
 
 ![](http://img.youtube.com/vi/RlD7Q6GFFJE/0.jpg)](http://www.youtube.com/watch?v=RlD7Q6GFFJE "VIDEO TUTORIAL ")
 
-Description: This project uses __OpenCV Library__ which is is an open source computer vision and machine learning software library.
+Description : This project uses __OpenCV Library__ which is is an open source computer vision and machine learning software library.
 HaarCascade: It is a machine learning object detection algorithm used to identify objects in an image or video.
 With the combination of Python and CV2, image of cars are extracted from video and displayed on windows Screen.
 
