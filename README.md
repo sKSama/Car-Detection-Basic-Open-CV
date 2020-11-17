@@ -7,6 +7,7 @@ Video Tutorial - https://youtu.be/RlD7Q6GFFJE
 Description: This project uses __OpenCV Library__ which is is an open source computer vision and machine learning software library.
 HaarCascade: It is a machine learning object detection algorithm used to identify objects in an image or video.
 With the combination of Python and CV2, image of cars are extracted from video and displayed on windows Screen.
+Interested in knowing maths behind HaarCascade? Check out this- https://towardsdatascience.com/object-detection-with-haar-cascades-in-python-ad9e70ed50aa
 
 ## A little about OpenCV -
 
